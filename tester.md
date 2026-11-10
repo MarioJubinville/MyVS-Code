@@ -1,3 +1,5 @@
+# Tester
+
 Now the operating point is: **1τ drain, 1τ charge, steady-state oscillation** — and there's a gift hiding in this configuration that makes the whole thing come out clean. Let me show you the gift first, because it changes how you read the answer.
 
 ## The gift: the node voltages don't depend on the resistors at all
